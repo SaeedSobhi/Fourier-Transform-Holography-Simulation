@@ -1,6 +1,9 @@
 # Fourier-Transform-Holography-Simulation
 Fourier Transform Holography (FTH) Simulation, with the ability to change the factors with interactive sliders 
-
+give the ability to change: 
+          Pinhole position (one slider for x position and another for y position)
+          Pinhole size 
+          Detector's shape (square or circle)
 
 The output should look like this: 
 
